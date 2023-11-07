@@ -3,7 +3,8 @@ This file runs Ising simulation
 Created: Mar. 30, 2019
 Last Edited: Apr. 6, 2019
 By Bill
-修改  by 卜佳锐 2023-10-28
+大量修改  by Rui 
+2023-10-28
 """
 
 import IsingGrid
